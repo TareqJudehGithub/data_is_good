@@ -1,0 +1,27 @@
+Excel
+ 
+ Excel is developed by microsoft.
+  
+  Excel usage
+  - Data entry and storage
+  - Data cleaning and preprocessing
+  - Creating different charts 
+  - Data visualization and animation
+  - Data analysis 
+  - Descriptive and inferential statistics
+  - Time series and regression analysis
+
+
+Excel UI
+
+ Excel data types
+  - General
+   - The default data type in excel
+   - Values in cells accepts both texts and number  
+  
+  - Number
+   - Values appear formatted as numbers.
+  
+  - Currency
+   - Values appear in decimal and with a currency symbol.
+   
