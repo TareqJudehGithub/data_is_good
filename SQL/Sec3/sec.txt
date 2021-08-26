@@ -1,6 +1,0 @@
-Type of SQL commands
- - SQL commands are commands to communicate with the database.
-  
-  Data Query Language (DQL)
-   - DQL are the commands used to retrieve data from the database.
-   
