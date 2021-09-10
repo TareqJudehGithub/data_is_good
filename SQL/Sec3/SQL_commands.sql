@@ -10,10 +10,10 @@ Data Definition Language (DDL)
  - CREATE, ALTER, DROP, and TRUNCATE are DDL commands.
  
 Data Manipulation Language (DML)
- - DML modify the DB.
+ - DML modify the Data.
  - DML responsible for all change of values in DB.
- - DML commands are not auto-commited, we can rollback to stable conditions in case of a 
-   mistake.
+ - DML commands are not auto-commited, we can rollback to stable conditions in 
+   case of a mistake.
  - INSERT, UPDATE, DELETE.  
 
 Data Control Language (DCL)

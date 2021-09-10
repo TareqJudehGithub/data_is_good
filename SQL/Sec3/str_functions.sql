@@ -52,6 +52,9 @@ SUBSTRING(string, start, length)
 SELECT SUBSTRING('John Smith', 1, POSITION(' ' in 'John Smith'));
 
 
+-- return the last 3 strings:
+SELECT SUBSTRING('John Doe', -3);
+
 TRIM()
 /* 
 Removes unwanted strings

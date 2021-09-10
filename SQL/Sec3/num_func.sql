@@ -20,8 +20,9 @@
  
  CEILING()
 /* 
- - CEILING() returns the smallest interger that is greater than or equal to a given number
- - CEILING() rounds value to the nearest greater integer
+ - CEILING() returns the nearest interger that is greater than or equal to a 
+   given number.
+ - CEILING() rounds value to the nearest greater integer.
 */
 SELECT CEILING(2.6);
 -- >> 3  because 3 is the smallest integer greater than 2.6
