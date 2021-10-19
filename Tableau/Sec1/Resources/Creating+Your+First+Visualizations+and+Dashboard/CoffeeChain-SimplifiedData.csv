@@ -1,0 +1,289 @@
+﻿Product Type,Product,State,Area Code,Date,Market,Market Size,Type,Budget COGS,Budget Margin,Budget Profit,Budget Sales,Cogs,Inventory,Margin,Marketing,Number of Records,Profit,Sales,Total Expenses
+Coffee,Decaf Irish Cream,California,650,01/01/2010 00:00:00,West,Major Market,Decaf,180,-40,-120,140,144,862,-26,47,1,-117,118,91
+Espresso,Decaf Espresso,California,213,01/01/2010 00:00:00,West,Major Market,Decaf,220,300,200,520,234,1310,312,77,1,203,546,109
+Herbal Tea,Chamomile,California,510,01/01/2010 00:00:00,West,Major Market,Decaf,80,120,100,200,95,821,139,26,1,102,234,37
+Herbal Tea,Lemon,California,310,01/01/2010 00:00:00,West,Major Market,Decaf,170,220,160,390,207,965,245,64,1,160,452,85
+Herbal Tea,Mint,California,707,01/01/2010 00:00:00,West,Major Market,Decaf,70,90,60,160,83,623,107,27,1,67,190,40
+Coffee,Amaretto,California,916,01/01/2010 00:00:00,West,Major Market,Regular,110,70,30,180,95,608,50,30,1,-2,145,52
+Coffee,Columbian,California,559,01/01/2010 00:00:00,West,Major Market,Regular,340,500,370,840,271,2101,407,94,1,262,678,145
+Espresso,Caffe Latte,California,661,01/01/2010 00:00:00,West,Major Market,Regular,210,220,150,430,228,1459,228,63,1,140,456,88
+Espresso,Caffe Mocha,California,818,01/01/2010 00:00:00,West,Major Market,Regular,100,140,20,240,105,725,145,95,1,17,250,128
+Tea,Darjeeling,California,619,01/01/2010 00:00:00,West,Major Market,Regular,50,90,80,140,89,777,130,24,1,94,219,36
+Tea,Earl Grey,California,650,01/01/2010 00:00:00,West,Major Market,Regular,30,60,60,90,54,456,80,15,1,54,134,26
+Tea,Green Tea,California,760,01/01/2010 00:00:00,West,Major Market,Regular,40,80,50,120,72,558,108,23,1,54,180,54
+Coffee,Decaf Irish Cream,California,818,01/02/2010 00:00:00,West,Major Market,Decaf,180,-30,-110,150,148,1071,-26,48,1,-117,122,91
+Espresso,Decaf Espresso,California,951,01/02/2010 00:00:00,West,Major Market,Decaf,220,300,200,520,234,1282,311,77,1,202,545,109
+Herbal Tea,Chamomile,California,949,01/02/2010 00:00:00,West,Major Market,Decaf,80,120,100,200,95,809,137,26,1,100,232,37
+Herbal Tea,Lemon,California,714,01/02/2010 00:00:00,West,Major Market,Decaf,180,220,160,400,213,942,252,66,1,164,465,88
+Herbal Tea,Mint,California,530,01/02/2010 00:00:00,West,Major Market,Decaf,70,90,60,160,83,613,107,27,1,68,190,39
+Coffee,Amaretto,California,909,01/02/2010 00:00:00,West,Major Market,Regular,130,30,-20,160,104,685,28,33,1,-27,132,55
+Coffee,Columbian,California,415,01/02/2010 00:00:00,West,Major Market,Regular,320,480,360,800,258,2067,387,90,1,245,645,142
+Espresso,Caffe Latte,California,831,01/02/2010 00:00:00,West,Major Market,Regular,210,220,150,430,228,1436,229,63,1,142,457,87
+Espresso,Caffe Mocha,California,916,01/02/2010 00:00:00,West,Major Market,Regular,110,160,30,270,121,712,169,110,1,26,290,143
+Tea,Darjeeling,California,626,01/02/2010 00:00:00,West,Major Market,Regular,60,100,90,160,99,766,144,27,1,106,243,38
+Tea,Earl Grey,California,858,01/02/2010 00:00:00,West,Major Market,Regular,50,70,60,120,77,449,112,21,1,80,189,32
+Tea,Green Tea,California,858,01/02/2010 00:00:00,West,Major Market,Regular,40,80,50,120,75,549,114,24,1,58,189,56
+Coffee,Decaf Irish Cream,California,650,01/03/2010 00:00:00,West,Major Market,Decaf,190,-40,-120,150,154,1288,-27,50,1,-121,127,94
+Espresso,Decaf Espresso,California,916,01/03/2010 00:00:00,West,Major Market,Decaf,230,310,210,540,243,1260,324,80,1,211,567,113
+Herbal Tea,Chamomile,California,562,01/03/2010 00:00:00,West,Major Market,Decaf,80,120,100,200,95,799,139,26,1,101,234,38
+Herbal Tea,Lemon,California,213,01/03/2010 00:00:00,West,Major Market,Decaf,180,230,170,410,214,923,253,66,1,165,467,88
+Herbal Tea,Mint,California,562,01/03/2010 00:00:00,West,Major Market,Decaf,70,90,60,160,84,603,109,27,1,69,193,40
+Coffee,Amaretto,California,925,01/03/2010 00:00:00,West,Major Market,Regular,130,20,-30,150,109,796,16,34,1,-41,125,57
+Coffee,Columbian,California,707,01/03/2010 00:00:00,West,Major Market,Regular,340,500,370,840,270,2041,405,94,1,259,675,146
+Espresso,Caffe Latte,California,760,01/03/2010 00:00:00,West,Major Market,Regular,220,230,150,450,239,1417,239,66,1,149,478,90
+Espresso,Caffe Mocha,California,323,01/03/2010 00:00:00,West,Major Market,Regular,120,160,30,280,125,700,173,113,1,27,298,146
+Tea,Darjeeling,California,415,01/03/2010 00:00:00,West,Major Market,Regular,50,90,80,140,87,756,126,24,1,91,213,35
+Tea,Earl Grey,California,951,01/03/2010 00:00:00,West,Major Market,Regular,50,80,70,130,81,441,117,22,1,84,198,33
+Tea,Green Tea,California,415,01/03/2010 00:00:00,West,Major Market,Regular,40,80,50,120,72,541,108,23,1,54,180,54
+Coffee,Decaf Irish Cream,California,916,01/04/2010 00:00:00,West,Major Market,Decaf,240,-50,-150,190,191,1564,-32,63,1,-141,159,109
+Espresso,Decaf Espresso,California,831,01/04/2010 00:00:00,West,Major Market,Decaf,240,320,220,560,252,1316,335,83,1,220,587,115
+Herbal Tea,Chamomile,California,408,01/04/2010 00:00:00,West,Major Market,Decaf,80,130,110,210,100,822,145,28,1,106,245,39
+Herbal Tea,Lemon,California,707,01/04/2010 00:00:00,West,Major Market,Decaf,170,230,170,400,209,969,247,64,1,162,456,85
+Herbal Tea,Mint,California,805,01/04/2010 00:00:00,West,Major Market,Decaf,60,90,60,150,78,593,100,25,1,62,178,38
+Coffee,Amaretto,California,818,01/04/2010 00:00:00,West,Major Market,Regular,150,-20,-70,130,123,964,-13,39,1,-76,110,63
+Coffee,Columbian,California,209,01/04/2010 00:00:00,West,Major Market,Regular,350,540,400,890,284,2108,428,99,1,276,712,152
+Espresso,Caffe Latte,California,925,01/04/2010 00:00:00,West,Major Market,Regular,220,230,150,450,239,1464,239,66,1,148,478,91
+Espresso,Caffe Mocha,California,805,01/04/2010 00:00:00,West,Major Market,Regular,120,160,30,280,125,729,173,113,1,26,298,147
+Tea,Darjeeling,California,805,01/04/2010 00:00:00,West,Major Market,Regular,60,90,80,150,91,777,132,25,1,96,223,36
+Tea,Earl Grey,California,530,01/04/2010 00:00:00,West,Major Market,Regular,50,80,70,130,81,460,117,22,1,83,198,34
+Tea,Green Tea,California,415,01/04/2010 00:00:00,West,Major Market,Regular,40,70,40,110,68,559,102,22,1,48,170,54
+Coffee,Decaf Irish Cream,California,714,01/05/2010 00:00:00,West,Major Market,Decaf,240,-40,-140,200,195,1952,-32,64,1,-142,163,110
+Espresso,Decaf Espresso,California,626,01/05/2010 00:00:00,West,Major Market,Decaf,250,330,220,580,263,1433,349,86,1,230,612,119
+Herbal Tea,Chamomile,California,760,01/05/2010 00:00:00,West,Major Market,Decaf,80,140,120,220,104,871,152,29,1,111,256,41
+Herbal Tea,Lemon,California,805,01/05/2010 00:00:00,West,Major Market,Decaf,200,250,180,450,235,1060,277,72,1,183,512,94
+Herbal Tea,Mint,California,805,01/05/2010 00:00:00,West,Major Market,Decaf,70,90,60,160,83,584,107,27,1,67,190,40
+Coffee,Amaretto,California,209,01/05/2010 00:00:00,West,Major Market,Regular,160,-30,-80,130,127,1215,-21,40,1,-84,106,63
+Coffee,Columbian,California,650,01/05/2010 00:00:00,West,Major Market,Regular,380,560,410,940,302,2250,454,105,1,295,756,159
+Espresso,Caffe Latte,California,415,01/05/2010 00:00:00,West,Major Market,Regular,240,260,180,500,260,1559,261,72,1,165,521,96
+Espresso,Caffe Mocha,California,209,01/05/2010 00:00:00,West,Major Market,Regular,110,160,30,270,121,788,168,109,1,25,289,143
+Tea,Darjeeling,California,310,01/05/2010 00:00:00,West,Major Market,Regular,60,110,100,170,104,821,152,29,1,111,256,41
+Tea,Earl Grey,California,530,01/05/2010 00:00:00,West,Major Market,Regular,50,90,80,140,86,499,124,24,1,89,210,35
+Tea,Green Tea,California,714,01/05/2010 00:00:00,West,Major Market,Regular,40,60,30,100,64,593,96,21,1,43,160,53
+Coffee,Decaf Irish Cream,California,415,01/06/2010 00:00:00,West,Major Market,Decaf,250,-40,-140,210,200,2393,-31,66,1,-142,169,111
+Espresso,Decaf Espresso,California,562,01/06/2010 00:00:00,West,Major Market,Decaf,260,340,230,600,272,1616,362,89,1,240,634,122
+Herbal Tea,Chamomile,California,661,01/06/2010 00:00:00,West,Major Market,Decaf,100,160,140,260,123,947,178,34,1,133,301,45
+Herbal Tea,Lemon,California,661,01/06/2010 00:00:00,West,Major Market,Decaf,200,260,190,460,244,1213,288,75,1,192,532,96
+Herbal Tea,Mint,California,408,01/06/2010 00:00:00,West,Major Market,Decaf,70,90,60,160,83,574,107,27,1,67,190,40
+Coffee,Amaretto,California,707,01/06/2010 00:00:00,West,Major Market,Regular,170,-50,-110,120,141,1514,-45,45,1,-113,96,68
+Coffee,Columbian,California,805,01/06/2010 00:00:00,West,Major Market,Regular,440,670,500,1110,356,2476,534,124,1,357,890,177
+Espresso,Caffe Latte,California,707,01/06/2010 00:00:00,West,Major Market,Regular,240,260,180,500,260,1715,261,72,1,165,521,96
+Espresso,Caffe Mocha,California,714,01/06/2010 00:00:00,West,Major Market,Regular,130,200,50,330,144,874,201,131,1,36,345,165
+Tea,Darjeeling,California,209,01/06/2010 00:00:00,West,Major Market,Regular,70,110,90,180,113,897,163,31,1,120,276,43
+Tea,Earl Grey,California,415,01/06/2010 00:00:00,West,Major Market,Regular,60,90,80,150,94,562,136,26,1,98,230,38
+Tea,Green Tea,California,714,01/06/2010 00:00:00,West,Major Market,Regular,30,60,30,90,54,641,81,17,1,32,135,49
+Coffee,Decaf Irish Cream,California,707,01/07/2010 00:00:00,West,Major Market,Decaf,290,-40,-150,250,238,2797,-36,78,1,-157,202,121
+Espresso,Decaf Espresso,California,650,01/07/2010 00:00:00,West,Major Market,Decaf,270,380,260,650,291,1742,387,96,1,259,678,128
+Herbal Tea,Chamomile,California,805,01/07/2010 00:00:00,West,Major Market,Decaf,100,170,150,270,127,1007,185,35,1,139,312,46
+Herbal Tea,Lemon,California,650,01/07/2010 00:00:00,West,Major Market,Decaf,220,270,200,490,260,1319,307,80,1,205,567,102
+Herbal Tea,Mint,California,831,01/07/2010 00:00:00,West,Major Market,Decaf,70,100,70,170,87,564,112,28,1,72,199,40
+Coffee,Amaretto,California,209,01/07/2010 00:00:00,West,Major Market,Regular,190,-90,-150,100,154,1832,-67,49,1,-138,87,71
+Coffee,Columbian,California,707,01/07/2010 00:00:00,West,Major Market,Regular,450,690,530,1140,364,2654,548,127,1,370,912,178
+Espresso,Caffe Latte,California,818,01/07/2010 00:00:00,West,Major Market,Regular,250,260,170,510,266,1819,266,74,1,167,532,99
+Espresso,Caffe Mocha,California,562,01/07/2010 00:00:00,West,Major Market,Regular,150,220,60,370,162,943,225,147,1,45,387,180
+Tea,Darjeeling,California,562,01/07/2010 00:00:00,West,Major Market,Regular,60,110,100,170,104,952,152,29,1,112,256,40
+Tea,Earl Grey,California,831,01/07/2010 00:00:00,West,Major Market,Regular,60,90,80,150,94,608,136,26,1,98,230,38
+Tea,Green Tea,California,415,01/07/2010 00:00:00,West,Major Market,Regular,30,50,20,80,52,668,79,17,1,30,131,49
+Coffee,Decaf Irish Cream,California,626,01/08/2010 00:00:00,West,Major Market,Decaf,240,-40,-140,200,196,3139,-30,64,1,-137,166,107
+Espresso,Decaf Espresso,California,707,01/08/2010 00:00:00,West,Major Market,Decaf,280,370,250,650,295,1714,392,97,1,262,687,130
+Herbal Tea,Chamomile,California,831,01/08/2010 00:00:00,West,Major Market,Decaf,110,170,140,280,132,994,191,36,1,143,323,48
+Herbal Tea,Lemon,California,916,01/08/2010 00:00:00,West,Major Market,Decaf,260,330,240,590,311,1296,367,96,1,249,678,118
+Herbal Tea,Mint,California,310,01/08/2010 00:00:00,West,Major Market,Decaf,40,60,40,100,52,554,68,17,1,38,120,30
+Coffee,Amaretto,California,562,01/08/2010 00:00:00,West,Major Market,Regular,190,-90,-150,100,154,2105,-67,49,1,-139,87,72
+Coffee,Columbian,California,650,01/08/2010 00:00:00,West,Major Market,Regular,450,680,520,1130,364,2617,546,127,1,368,910,178
+Espresso,Caffe Latte,California,916,01/08/2010 00:00:00,West,Major Market,Regular,250,260,170,510,266,1797,266,74,1,167,532,99
+Espresso,Caffe Mocha,California,530,01/08/2010 00:00:00,West,Major Market,Regular,160,230,60,390,173,927,239,156,1,50,412,189
+Tea,Darjeeling,California,760,01/08/2010 00:00:00,West,Major Market,Regular,80,120,100,200,123,941,178,34,1,133,301,45
+Tea,Earl Grey,California,310,01/08/2010 00:00:00,West,Major Market,Regular,60,100,90,160,100,598,145,28,1,105,245,40
+Tea,Green Tea,California,818,01/08/2010 00:00:00,West,Major Market,Regular,30,50,20,80,52,662,79,17,1,30,131,49
+Coffee,Decaf Irish Cream,California,909,01/09/2010 00:00:00,West,Major Market,Decaf,200,-30,-120,170,162,3421,-24,53,1,-120,138,96
+Espresso,Decaf Espresso,California,213,01/09/2010 00:00:00,West,Major Market,Decaf,240,320,220,560,253,1686,336,83,1,220,589,116
+Herbal Tea,Chamomile,California,626,01/09/2010 00:00:00,West,Major Market,Decaf,80,130,110,210,100,981,145,28,1,105,245,40
+Herbal Tea,Lemon,California,209,01/09/2010 00:00:00,West,Major Market,Decaf,210,270,200,480,251,1268,295,77,1,196,546,99
+Herbal Tea,Mint,California,951,01/09/2010 00:00:00,West,Major Market,Decaf,40,70,50,110,58,548,74,19,1,43,132,31
+Coffee,Amaretto,California,714,01/09/2010 00:00:00,West,Major Market,Regular,150,-20,-70,130,122,2378,-13,39,1,-74,109,61
+Coffee,Columbian,California,626,01/09/2010 00:00:00,West,Major Market,Regular,390,590,450,980,316,2580,474,110,1,313,790,161
+Espresso,Caffe Latte,California,949,01/09/2010 00:00:00,West,Major Market,Regular,230,240,160,470,249,1775,249,69,1,156,498,93
+Espresso,Caffe Mocha,California,951,01/09/2010 00:00:00,West,Major Market,Regular,110,160,30,270,121,910,169,110,1,26,290,143
+Tea,Darjeeling,California,310,01/09/2010 00:00:00,West,Major Market,Regular,80,120,100,200,123,928,179,34,1,134,302,45
+Tea,Earl Grey,California,714,01/09/2010 00:00:00,West,Major Market,Regular,50,80,70,130,81,588,118,22,1,84,199,34
+Tea,Green Tea,California,760,01/09/2010 00:00:00,West,Major Market,Regular,30,70,40,100,60,656,90,19,1,39,150,51
+Coffee,Decaf Irish Cream,California,951,01/10/2010 00:00:00,West,Major Market,Decaf,220,-30,-100,190,154,3654,-24,50,1,-117,130,93
+Espresso,Decaf Espresso,California,714,01/10/2010 00:00:00,West,Major Market,Decaf,230,320,240,550,257,1662,341,84,1,225,598,116
+Herbal Tea,Chamomile,California,661,01/10/2010 00:00:00,West,Major Market,Decaf,80,130,120,210,108,971,157,30,1,115,265,42
+Herbal Tea,Lemon,California,562,01/10/2010 00:00:00,West,Major Market,Decaf,190,220,170,410,239,1246,281,74,1,186,520,95
+Herbal Tea,Mint,California,209,01/10/2010 00:00:00,West,Major Market,Decaf,20,40,40,60,39,541,51,12,1,26,90,25
+Coffee,Amaretto,California,818,01/10/2010 00:00:00,West,Major Market,Regular,170,-20,-60,150,122,2555,-13,39,1,-74,109,61
+Coffee,Columbian,California,626,01/10/2010 00:00:00,West,Major Market,Regular,380,580,470,960,260,2548,390,91,1,247,650,143
+Espresso,Caffe Latte,California,562,01/10/2010 00:00:00,West,Major Market,Regular,210,220,160,430,239,1755,239,66,1,149,478,90
+Espresso,Caffe Mocha,California,562,01/10/2010 00:00:00,West,Major Market,Regular,110,160,50,270,125,898,173,113,1,27,298,146
+Tea,Darjeeling,California,562,01/10/2010 00:00:00,West,Major Market,Regular,50,90,80,140,123,915,179,34,1,134,302,45
+Tea,Earl Grey,California,209,01/10/2010 00:00:00,West,Major Market,Regular,30,50,50,80,76,580,111,21,1,79,187,32
+Tea,Green Tea,California,562,01/10/2010 00:00:00,West,Major Market,Regular,20,60,50,80,72,650,110,23,1,56,182,54
+Coffee,Decaf Irish Cream,California,909,01/11/2010 00:00:00,West,Major Market,Decaf,200,-30,-130,170,173,3909,-27,57,1,-127,146,100
+Espresso,Decaf Espresso,California,707,01/11/2010 00:00:00,West,Major Market,Decaf,220,290,190,510,228,1691,304,75,1,197,532,107
+Herbal Tea,Chamomile,California,213,01/11/2010 00:00:00,West,Major Market,Decaf,70,110,80,180,81,984,117,22,1,84,198,33
+Herbal Tea,Lemon,California,213,01/11/2010 00:00:00,West,Major Market,Decaf,210,240,160,450,225,1272,265,69,1,174,490,91
+Herbal Tea,Mint,California,707,01/11/2010 00:00:00,West,Major Market,Decaf,30,50,30,80,40,536,52,13,1,27,92,25
+Coffee,Amaretto,California,619,01/11/2010 00:00:00,West,Major Market,Regular,130,0,-50,130,113,2758,3,36,1,-56,116,59
+Coffee,Columbian,California,951,01/11/2010 00:00:00,West,Major Market,Regular,290,450,310,740,249,2580,374,87,1,235,623,139
+Espresso,Caffe Latte,California,559,01/11/2010 00:00:00,West,Major Market,Regular,200,210,140,410,211,1778,212,59,1,129,423,83
+Espresso,Caffe Mocha,California,818,01/11/2010 00:00:00,West,Major Market,Regular,110,170,40,280,121,912,168,109,1,26,289,142
+Tea,Darjeeling,California,213,01/11/2010 00:00:00,West,Major Market,Regular,80,130,110,210,118,930,172,33,1,128,290,44
+Tea,Earl Grey,California,650,01/11/2010 00:00:00,West,Major Market,Regular,30,50,40,80,50,589,73,14,1,47,123,26
+Tea,Green Tea,California,650,01/11/2010 00:00:00,West,Major Market,Regular,50,80,40,130,75,659,114,24,1,59,189,55
+Coffee,Decaf Irish Cream,California,714,01/12/2010 00:00:00,West,Major Market,Decaf,260,-40,-150,220,224,4216,-32,73,1,-149,192,117
+Espresso,Decaf Espresso,California,209,01/12/2010 00:00:00,West,Major Market,Decaf,240,310,210,550,247,1744,329,81,1,216,576,113
+Herbal Tea,Chamomile,California,626,01/12/2010 00:00:00,West,Major Market,Decaf,80,110,80,190,86,1003,124,24,1,89,210,35
+Herbal Tea,Lemon,California,415,01/12/2010 00:00:00,West,Major Market,Decaf,220,260,170,480,241,1321,284,74,1,188,525,96
+Herbal Tea,Mint,California,805,01/12/2010 00:00:00,West,Major Market,Decaf,40,50,30,90,43,531,56,14,1,29,99,27
+Coffee,Amaretto,California,951,01/12/2010 00:00:00,West,Major Market,Regular,150,-30,-90,120,127,2947,-25,40,1,-88,102,63
+Coffee,Columbian,California,707,01/12/2010 00:00:00,West,Major Market,Regular,330,500,350,830,279,2642,420,97,1,271,699,149
+Espresso,Caffe Latte,California,916,01/12/2010 00:00:00,West,Major Market,Regular,240,240,160,480,250,1820,251,70,1,157,501,94
+Espresso,Caffe Mocha,California,530,01/12/2010 00:00:00,West,Major Market,Regular,130,180,40,310,135,940,187,122,1,31,322,156
+Tea,Darjeeling,California,916,01/12/2010 00:00:00,West,Major Market,Regular,90,130,110,220,123,959,179,34,1,134,302,45
+Tea,Earl Grey,California,619,01/12/2010 00:00:00,West,Major Market,Regular,30,60,50,90,54,601,79,15,1,53,133,26
+Tea,Green Tea,California,213,01/12/2010 00:00:00,West,Major Market,Regular,40,80,50,120,67,677,101,22,1,47,168,54
+Coffee,Decaf Irish Cream,California,310,01/01/2011 00:00:00,West,Major Market,Decaf,180,-40,-120,140,144,862,-26,47,1,-182,132,96
+Espresso,Decaf Espresso,California,951,01/01/2011 00:00:00,West,Major Market,Decaf,220,300,200,520,234,1310,312,77,1,316,611,114
+Herbal Tea,Chamomile,California,650,01/01/2011 00:00:00,West,Major Market,Decaf,80,120,100,200,95,821,139,26,1,159,262,39
+Herbal Tea,Lemon,California,530,01/01/2011 00:00:00,West,Major Market,Decaf,170,220,160,390,207,965,245,64,1,249,506,89
+Herbal Tea,Mint,California,650,01/01/2011 00:00:00,West,Major Market,Decaf,70,90,60,160,83,623,107,27,1,104,213,42
+Coffee,Amaretto,California,209,01/01/2011 00:00:00,West,Major Market,Regular,110,70,30,180,95,608,50,30,1,-3,162,55
+Coffee,Columbian,California,949,01/01/2011 00:00:00,West,Major Market,Regular,340,500,370,840,271,2101,407,94,1,408,759,152
+Espresso,Caffe Latte,California,323,01/01/2011 00:00:00,West,Major Market,Regular,210,220,150,430,228,1459,228,63,1,218,510,92
+Espresso,Caffe Mocha,California,530,01/01/2011 00:00:00,West,Major Market,Regular,100,140,20,240,105,725,145,95,1,26,280,134
+Tea,Darjeeling,California,562,01/01/2011 00:00:00,West,Major Market,Regular,50,90,80,140,89,777,130,24,1,146,245,38
+Tea,Earl Grey,California,707,01/01/2011 00:00:00,West,Major Market,Regular,30,60,60,90,54,456,80,15,1,84,150,27
+Tea,Green Tea,California,650,01/01/2011 00:00:00,West,Major Market,Regular,40,80,50,120,72,558,108,23,1,84,201,57
+Coffee,Decaf Irish Cream,California,925,01/02/2011 00:00:00,West,Major Market,Decaf,180,-30,-110,150,148,1071,-26,48,1,-174,130,91
+Espresso,Decaf Espresso,California,707,01/02/2011 00:00:00,West,Major Market,Decaf,220,300,200,520,234,1282,311,77,1,300,581,109
+Herbal Tea,Chamomile,California,209,01/02/2011 00:00:00,West,Major Market,Decaf,80,120,100,200,95,809,137,26,1,148,247,37
+Herbal Tea,Lemon,California,559,01/02/2011 00:00:00,West,Major Market,Decaf,180,220,160,400,213,942,252,66,1,243,496,88
+Herbal Tea,Mint,California,408,01/02/2011 00:00:00,West,Major Market,Decaf,70,90,60,160,83,613,107,27,1,101,202,39
+Coffee,Amaretto,California,626,01/02/2011 00:00:00,West,Major Market,Regular,130,30,-20,160,104,685,28,33,1,-40,141,55
+Coffee,Columbian,California,213,01/02/2011 00:00:00,West,Major Market,Regular,320,480,360,800,258,2067,387,90,1,364,687,142
+Espresso,Caffe Latte,California,619,01/02/2011 00:00:00,West,Major Market,Regular,210,220,150,430,228,1436,229,63,1,211,487,87
+Espresso,Caffe Mocha,California,916,01/02/2011 00:00:00,West,Major Market,Regular,110,160,30,270,121,712,169,110,1,39,309,143
+Tea,Darjeeling,California,805,01/02/2011 00:00:00,West,Major Market,Regular,60,100,90,160,99,766,144,27,1,157,259,38
+Tea,Earl Grey,California,707,01/02/2011 00:00:00,West,Major Market,Regular,50,70,60,120,77,449,112,21,1,119,201,32
+Tea,Green Tea,California,530,01/02/2011 00:00:00,West,Major Market,Regular,40,80,50,120,75,549,114,24,1,86,201,56
+Coffee,Decaf Irish Cream,California,408,01/03/2011 00:00:00,West,Major Market,Decaf,190,-40,-120,150,154,1288,-27,50,1,-180,135,94
+Espresso,Decaf Espresso,California,323,01/03/2011 00:00:00,West,Major Market,Decaf,230,310,210,540,243,1260,324,80,1,313,604,113
+Herbal Tea,Chamomile,California,408,01/03/2011 00:00:00,West,Major Market,Decaf,80,120,100,200,95,799,139,26,1,150,249,38
+Herbal Tea,Lemon,California,323,01/03/2011 00:00:00,West,Major Market,Decaf,180,230,170,410,214,923,253,66,1,245,498,88
+Herbal Tea,Mint,California,760,01/03/2011 00:00:00,West,Major Market,Decaf,70,90,60,160,84,603,109,27,1,102,206,40
+Coffee,Amaretto,California,916,01/03/2011 00:00:00,West,Major Market,Regular,130,20,-30,150,109,796,16,34,1,-61,133,57
+Coffee,Columbian,California,858,01/03/2011 00:00:00,West,Major Market,Regular,340,500,370,840,270,2041,405,94,1,384,719,146
+Espresso,Caffe Latte,California,310,01/03/2011 00:00:00,West,Major Market,Regular,220,230,150,450,239,1417,239,66,1,221,509,90
+Espresso,Caffe Mocha,California,323,01/03/2011 00:00:00,West,Major Market,Regular,120,160,30,280,125,700,173,113,1,40,318,146
+Tea,Darjeeling,California,510,01/03/2011 00:00:00,West,Major Market,Regular,50,90,80,140,87,756,126,24,1,135,227,35
+Tea,Earl Grey,California,916,01/03/2011 00:00:00,West,Major Market,Regular,50,80,70,130,81,441,117,22,1,125,211,33
+Tea,Green Tea,California,818,01/03/2011 00:00:00,West,Major Market,Regular,40,80,50,120,72,541,108,23,1,80,192,54
+Coffee,Decaf Irish Cream,California,818,01/04/2011 00:00:00,West,Major Market,Decaf,240,-50,-150,190,191,1564,-32,63,1,-209,169,109
+Espresso,Decaf Espresso,California,415,01/04/2011 00:00:00,West,Major Market,Decaf,240,320,220,560,252,1316,335,83,1,326,626,115
+Herbal Tea,Chamomile,California,415,01/04/2011 00:00:00,West,Major Market,Decaf,80,130,110,210,100,822,145,28,1,157,261,39
+Herbal Tea,Lemon,California,415,01/04/2011 00:00:00,West,Major Market,Decaf,170,230,170,400,209,969,247,64,1,240,486,85
+Herbal Tea,Mint,California,562,01/04/2011 00:00:00,West,Major Market,Decaf,60,90,60,150,78,593,100,25,1,92,190,38
+Coffee,Amaretto,California,562,01/04/2011 00:00:00,West,Major Market,Regular,150,-20,-70,130,123,964,-13,39,1,-113,117,63
+Coffee,Columbian,California,209,01/04/2011 00:00:00,West,Major Market,Regular,350,540,400,890,284,2108,428,99,1,410,759,152
+Espresso,Caffe Latte,California,415,01/04/2011 00:00:00,West,Major Market,Regular,220,230,150,450,239,1464,239,66,1,220,509,91
+Espresso,Caffe Mocha,California,415,01/04/2011 00:00:00,West,Major Market,Regular,120,160,30,280,125,729,173,113,1,39,318,147
+Tea,Darjeeling,California,951,01/04/2011 00:00:00,West,Major Market,Regular,60,90,80,150,91,777,132,25,1,142,238,36
+Tea,Earl Grey,California,707,01/04/2011 00:00:00,West,Major Market,Regular,50,80,70,130,81,460,117,22,1,123,211,34
+Tea,Green Tea,California,619,01/04/2011 00:00:00,West,Major Market,Regular,40,70,40,110,68,559,102,22,1,71,181,54
+Coffee,Decaf Irish Cream,California,925,01/05/2011 00:00:00,West,Major Market,Decaf,240,-40,-140,200,195,1952,-32,64,1,-196,162,102
+Espresso,Decaf Espresso,California,310,01/05/2011 00:00:00,West,Major Market,Decaf,250,330,220,580,263,1433,349,86,1,317,607,111
+Herbal Tea,Chamomile,California,619,01/05/2011 00:00:00,West,Major Market,Decaf,80,140,120,220,104,871,152,29,1,153,254,38
+Herbal Tea,Lemon,California,559,01/05/2011 00:00:00,West,Major Market,Decaf,200,250,180,450,235,1060,277,72,1,253,507,87
+Herbal Tea,Mint,California,530,01/05/2011 00:00:00,West,Major Market,Decaf,70,90,60,160,83,584,107,27,1,92,188,37
+Coffee,Amaretto,California,805,01/05/2011 00:00:00,West,Major Market,Regular,160,-30,-80,130,127,1215,-21,40,1,-116,105,59
+Coffee,Columbian,California,707,01/05/2011 00:00:00,West,Major Market,Regular,380,560,410,940,302,2250,454,105,1,407,749,148
+Espresso,Caffe Latte,California,650,01/05/2011 00:00:00,West,Major Market,Regular,240,260,180,500,260,1559,261,72,1,228,516,89
+Espresso,Caffe Mocha,California,707,01/05/2011 00:00:00,West,Major Market,Regular,110,160,30,270,121,788,168,109,1,35,286,133
+Tea,Darjeeling,California,530,01/05/2011 00:00:00,West,Major Market,Regular,60,110,100,170,104,821,152,29,1,153,254,38
+Tea,Earl Grey,California,562,01/05/2011 00:00:00,West,Major Market,Regular,50,90,80,140,86,499,124,24,1,123,208,33
+Tea,Green Tea,California,310,01/05/2011 00:00:00,West,Major Market,Regular,40,60,30,100,64,593,96,21,1,59,159,49
+Coffee,Decaf Irish Cream,California,925,01/06/2011 00:00:00,West,Major Market,Decaf,250,-40,-140,210,200,2393,-31,66,1,-196,167,103
+Espresso,Decaf Espresso,California,661,01/06/2011 00:00:00,West,Major Market,Decaf,260,340,230,600,272,1616,362,89,1,331,628,113
+Herbal Tea,Chamomile,California,949,01/06/2011 00:00:00,West,Major Market,Decaf,100,160,140,260,123,947,178,34,1,184,298,42
+Herbal Tea,Lemon,California,415,01/06/2011 00:00:00,West,Major Market,Decaf,200,260,190,460,244,1213,288,75,1,265,527,89
+Herbal Tea,Mint,California,310,01/06/2011 00:00:00,West,Major Market,Decaf,70,90,60,160,83,574,107,27,1,92,188,37
+Coffee,Amaretto,California,650,01/06/2011 00:00:00,West,Major Market,Regular,170,-50,-110,120,141,1514,-45,45,1,-156,95,63
+Coffee,Columbian,California,530,01/06/2011 00:00:00,West,Major Market,Regular,440,670,500,1110,356,2476,534,124,1,493,882,165
+Espresso,Caffe Latte,California,510,01/06/2011 00:00:00,West,Major Market,Regular,240,260,180,500,260,1715,261,72,1,228,516,89
+Espresso,Caffe Mocha,California,650,01/06/2011 00:00:00,West,Major Market,Regular,130,200,50,330,144,874,201,131,1,50,342,153
+Tea,Darjeeling,California,951,01/06/2011 00:00:00,West,Major Market,Regular,70,110,90,180,113,897,163,31,1,166,274,40
+Tea,Earl Grey,California,925,01/06/2011 00:00:00,West,Major Market,Regular,60,90,80,150,94,562,136,26,1,135,228,35
+Tea,Green Tea,California,949,01/06/2011 00:00:00,West,Major Market,Regular,30,60,30,90,54,641,81,17,1,44,134,46
+Coffee,Decaf Irish Cream,California,909,01/07/2011 00:00:00,West,Major Market,Decaf,290,-40,-150,250,238,2797,-36,78,1,-217,200,113
+Espresso,Decaf Espresso,California,562,01/07/2011 00:00:00,West,Major Market,Decaf,270,380,260,650,291,1742,387,96,1,357,672,119
+Herbal Tea,Chamomile,California,619,01/07/2011 00:00:00,West,Major Market,Decaf,100,170,150,270,127,1007,185,35,1,192,309,43
+Herbal Tea,Lemon,California,714,01/07/2011 00:00:00,West,Major Market,Decaf,220,270,200,490,260,1319,307,80,1,283,562,95
+Herbal Tea,Mint,California,909,01/07/2011 00:00:00,West,Major Market,Decaf,70,100,70,170,87,564,112,28,1,99,197,37
+Coffee,Amaretto,California,661,01/07/2011 00:00:00,West,Major Market,Regular,190,-90,-150,100,154,1832,-67,49,1,-190,86,66
+Coffee,Columbian,California,650,01/07/2011 00:00:00,West,Major Market,Regular,450,690,530,1140,364,2654,548,127,1,511,904,166
+Espresso,Caffe Latte,California,213,01/07/2011 00:00:00,West,Major Market,Regular,250,260,170,510,266,1819,266,74,1,230,527,92
+Espresso,Caffe Mocha,California,408,01/07/2011 00:00:00,West,Major Market,Regular,150,220,60,370,162,943,225,147,1,62,384,167
+Tea,Darjeeling,California,619,01/07/2011 00:00:00,West,Major Market,Regular,60,110,100,170,104,952,152,29,1,155,254,37
+Tea,Earl Grey,California,707,01/07/2011 00:00:00,West,Major Market,Regular,60,90,80,150,94,608,136,26,1,135,228,35
+Tea,Green Tea,California,949,01/07/2011 00:00:00,West,Major Market,Regular,30,50,20,80,52,668,79,17,1,41,130,46
+Coffee,Decaf Irish Cream,California,530,01/08/2011 00:00:00,West,Major Market,Decaf,240,-40,-140,200,196,3139,-30,64,1,-189,165,100
+Espresso,Decaf Espresso,California,909,01/08/2011 00:00:00,West,Major Market,Decaf,280,370,250,650,295,1714,392,97,1,362,681,121
+Herbal Tea,Chamomile,California,916,01/08/2011 00:00:00,West,Major Market,Decaf,110,170,140,280,132,994,191,36,1,197,320,45
+Herbal Tea,Lemon,California,818,01/08/2011 00:00:00,West,Major Market,Decaf,260,330,240,590,311,1296,367,96,1,344,672,110
+Herbal Tea,Mint,California,213,01/08/2011 00:00:00,West,Major Market,Decaf,40,60,40,100,52,554,68,17,1,52,119,28
+Coffee,Amaretto,California,858,01/08/2011 00:00:00,West,Major Market,Regular,190,-90,-150,100,154,2105,-67,49,1,-192,86,67
+Coffee,Columbian,California,213,01/08/2011 00:00:00,West,Major Market,Regular,450,680,520,1130,364,2617,546,127,1,508,902,166
+Espresso,Caffe Latte,California,213,01/08/2011 00:00:00,West,Major Market,Regular,250,260,170,510,266,1797,266,74,1,230,527,92
+Espresso,Caffe Mocha,California,951,01/08/2011 00:00:00,West,Major Market,Regular,160,230,60,390,173,927,239,156,1,69,408,176
+Tea,Darjeeling,California,805,01/08/2011 00:00:00,West,Major Market,Regular,80,120,100,200,123,941,178,34,1,184,298,42
+Tea,Earl Grey,California,760,01/08/2011 00:00:00,West,Major Market,Regular,60,100,90,160,100,598,145,28,1,145,243,37
+Tea,Green Tea,California,650,01/08/2011 00:00:00,West,Major Market,Regular,30,50,20,80,52,662,79,17,1,41,130,46
+Coffee,Decaf Irish Cream,California,818,01/09/2011 00:00:00,West,Major Market,Decaf,200,-30,-120,170,162,3421,-24,53,1,-178,147,96
+Espresso,Decaf Espresso,California,530,01/09/2011 00:00:00,West,Major Market,Decaf,240,320,220,560,253,1686,336,83,1,326,628,116
+Herbal Tea,Chamomile,California,562,01/09/2011 00:00:00,West,Major Market,Decaf,80,130,110,210,100,981,145,28,1,156,261,40
+Herbal Tea,Lemon,California,209,01/09/2011 00:00:00,West,Major Market,Decaf,210,270,200,480,251,1268,295,77,1,291,582,99
+Herbal Tea,Mint,California,818,01/09/2011 00:00:00,West,Major Market,Decaf,40,70,50,110,58,548,74,19,1,64,141,31
+Coffee,Amaretto,California,714,01/09/2011 00:00:00,West,Major Market,Regular,150,-20,-70,130,122,2378,-13,39,1,-110,116,61
+Coffee,Columbian,California,562,01/09/2011 00:00:00,West,Major Market,Regular,390,590,450,980,316,2580,474,110,1,465,842,161
+Espresso,Caffe Latte,California,310,01/09/2011 00:00:00,West,Major Market,Regular,230,240,160,470,249,1775,249,69,1,232,531,93
+Espresso,Caffe Mocha,California,951,01/09/2011 00:00:00,West,Major Market,Regular,110,160,30,270,121,910,169,110,1,39,309,143
+Tea,Darjeeling,California,310,01/09/2011 00:00:00,West,Major Market,Regular,80,120,100,200,123,928,179,34,1,199,322,45
+Tea,Earl Grey,California,650,01/09/2011 00:00:00,West,Major Market,Regular,50,80,70,130,81,588,118,22,1,125,212,34
+Tea,Green Tea,California,530,01/09/2011 00:00:00,West,Major Market,Regular,30,70,40,100,60,656,90,19,1,58,160,51
+Coffee,Decaf Irish Cream,California,650,01/10/2011 00:00:00,West,Major Market,Decaf,220,-30,-100,190,154,3654,-24,50,1,-174,139,93
+Espresso,Decaf Espresso,California,415,01/10/2011 00:00:00,West,Major Market,Decaf,230,320,240,550,257,1662,341,84,1,334,637,116
+Herbal Tea,Chamomile,California,925,01/10/2011 00:00:00,West,Major Market,Decaf,80,130,120,210,108,971,157,30,1,171,282,42
+Herbal Tea,Lemon,California,951,01/10/2011 00:00:00,West,Major Market,Decaf,190,220,170,410,239,1246,281,74,1,276,554,95
+Herbal Tea,Mint,California,530,01/10/2011 00:00:00,West,Major Market,Decaf,20,40,40,60,39,541,51,12,1,39,96,25
+Coffee,Amaretto,California,909,01/10/2011 00:00:00,West,Major Market,Regular,170,-20,-60,150,122,2555,-13,39,1,-110,116,61
+Coffee,Columbian,California,818,01/10/2011 00:00:00,West,Major Market,Regular,380,580,470,960,260,2548,390,91,1,367,693,143
+Espresso,Caffe Latte,California,714,01/10/2011 00:00:00,West,Major Market,Regular,210,220,160,430,239,1755,239,66,1,221,509,90
+Espresso,Caffe Mocha,California,805,01/10/2011 00:00:00,West,Major Market,Regular,110,160,50,270,125,898,173,113,1,40,318,146
+Tea,Darjeeling,California,831,01/10/2011 00:00:00,West,Major Market,Regular,50,90,80,140,123,915,179,34,1,199,322,45
+Tea,Earl Grey,California,626,01/10/2011 00:00:00,West,Major Market,Regular,30,50,50,80,76,580,111,21,1,117,199,32
+Tea,Green Tea,California,510,01/10/2011 00:00:00,West,Major Market,Regular,20,60,50,80,72,650,110,23,1,83,194,54
+Coffee,Decaf Irish Cream,California,626,01/11/2011 00:00:00,West,Major Market,Decaf,200,-30,-130,170,173,3909,-27,57,1,-188,156,100
+Espresso,Decaf Espresso,California,213,01/11/2011 00:00:00,West,Major Market,Decaf,220,290,190,510,228,1691,304,75,1,292,567,107
+Herbal Tea,Chamomile,California,760,01/11/2011 00:00:00,West,Major Market,Decaf,70,110,80,180,81,984,117,22,1,125,211,33
+Herbal Tea,Lemon,California,510,01/11/2011 00:00:00,West,Major Market,Decaf,210,240,160,450,225,1272,265,69,1,258,522,91
+Herbal Tea,Mint,California,323,01/11/2011 00:00:00,West,Major Market,Decaf,30,50,30,80,40,536,52,13,1,40,98,25
+Coffee,Amaretto,California,916,01/11/2011 00:00:00,West,Major Market,Regular,130,0,-50,130,113,2758,3,36,1,-83,124,59
+Coffee,Columbian,California,213,01/11/2011 00:00:00,West,Major Market,Regular,290,450,310,740,249,2580,374,87,1,349,664,139
+Espresso,Caffe Latte,California,951,01/11/2011 00:00:00,West,Major Market,Regular,200,210,140,410,211,1778,212,59,1,191,451,83
+Espresso,Caffe Mocha,California,916,01/11/2011 00:00:00,West,Major Market,Regular,110,170,40,280,121,912,168,109,1,39,308,142
+Tea,Darjeeling,California,805,01/11/2011 00:00:00,West,Major Market,Regular,80,130,110,210,118,930,172,33,1,190,309,44
+Tea,Earl Grey,California,760,01/11/2011 00:00:00,West,Major Market,Regular,30,50,40,80,50,589,73,14,1,70,131,26
+Tea,Green Tea,California,209,01/11/2011 00:00:00,West,Major Market,Regular,50,80,40,130,75,659,114,24,1,88,201,55
+Coffee,Decaf Irish Cream,California,951,01/12/2011 00:00:00,West,Major Market,Decaf,260,-40,-150,220,224,4216,-32,73,1,-221,205,117
+Espresso,Decaf Espresso,California,209,01/12/2011 00:00:00,West,Major Market,Decaf,240,310,210,550,247,1744,329,81,1,321,614,113
+Herbal Tea,Chamomile,California,916,01/12/2011 00:00:00,West,Major Market,Decaf,80,110,80,190,86,1003,124,24,1,132,224,35
+Herbal Tea,Lemon,California,661,01/12/2011 00:00:00,West,Major Market,Decaf,220,260,170,480,241,1321,284,74,1,279,559,96
+Herbal Tea,Mint,California,323,01/12/2011 00:00:00,West,Major Market,Decaf,40,50,30,90,43,531,56,14,1,43,106,27
+Coffee,Amaretto,California,209,01/12/2011 00:00:00,West,Major Market,Regular,150,-30,-90,120,127,2947,-25,40,1,-131,109,63
+Coffee,Columbian,California,530,01/12/2011 00:00:00,West,Major Market,Regular,330,500,350,830,279,2642,420,97,1,402,745,149
+Espresso,Caffe Latte,California,949,01/12/2011 00:00:00,West,Major Market,Regular,240,240,160,480,250,1820,251,70,1,233,534,94
+Espresso,Caffe Mocha,California,530,01/12/2011 00:00:00,West,Major Market,Regular,130,180,40,310,135,940,187,122,1,46,343,156
+Tea,Darjeeling,California,323,01/12/2011 00:00:00,West,Major Market,Regular,90,130,110,220,123,959,179,34,1,199,322,45
+Tea,Earl Grey,California,408,01/12/2011 00:00:00,West,Major Market,Regular,30,60,50,90,54,601,79,15,1,79,142,26
+Tea,Green Tea,California,510,01/12/2011 00:00:00,West,Major Market,Regular,40,80,50,120,67,677,101,22,1,70,179,54

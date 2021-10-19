@@ -1,8 +1,10 @@
 -- Numerical Functions
  
- ROUND()
+
+ -- ROUND()
  /* 
- - ROUND() rounds values to the least or to the greater number.
+ - ROUND structure ROUND(num, precision)
+ - ROUND() rounds values to the least or to the greater closest number.
  - ROUND() has a 'precision' parameter, which rounds to values to a number of decimals specified.
  */
  SELECT ROUND(4.3);  
@@ -18,34 +20,37 @@
  
  -- ====================
  
- CEILING()
+ -- CEILING()
 /* 
  - CEILING() returns the nearest interger that is greater than or equal to a 
    given number.
  - CEILING() rounds value to the nearest greater integer.
 */
-SELECT CEILING(2.6);
+
+
+SELECT CEILING(2.3);
 -- >> 3  because 3 is the smallest integer greater than 2.6
  
   -- ====================
   
- FLOOR()
+ -- FLOOR()
  /*
   - FLOOR() rounds values to the nearest least integer.
  */
  
- SELECT FLOOR(2.6);
- 
+ SELECT FLOOR(1.6);
+ -- >> 1
   -- ====================
   
- TRUNCATE()
+ -- TRUNCATE()
  
  /*
  TRUNCATE() function is used to remove digits in decimal value after the precision.
  */
  
 SELECT TRUNCATE(5400.3478, 2);
--- return values with only 2 decimals
+-- return values with only 2 decimals  >>> 5400.34
+
 
 SELECT	first_name,
 		last_name,
@@ -55,17 +60,17 @@ FROM citizen;
 
  -- ====================
  
- ABS()
+ -- ABS() Absolute Value
  /* 
- ABS() returns the absolute value of a given value
+ ABS() returns the absolute value (positive) of a given value
  */
  
  SELECT	ABS(-10);
- 
+ -- >>> 10
  
  -- ====================
  
- RAND()
+-- RAND()
   /* 
   RAND() returns a random value between 0 and 1
 
@@ -93,7 +98,6 @@ SELECT TRUNCATE(RAND(), 2);
 		first_name,
 		last_name,
         salary,
-        CEIL(salary) AS ceil_salary,
         CEILING(salary) AS ceiling_salary
 FROM citizen;
  

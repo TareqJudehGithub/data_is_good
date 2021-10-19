@@ -44,6 +44,9 @@ ALTER TABLE Customerdetails
 ADD COLUMN EmailAddress VARCHAR(30) NOT NULL UNIQUE,
 ADD COLUMN Phone INT NOT NULL;
 
+-- MODIFY
+-- MODIFY can edit a column data type as well as the columns width.
+
 -- Update EmailAddress and Phone data types to varchar(50), char(12) in respective order.
 
 ALTER TABLE customerdetails
@@ -54,11 +57,15 @@ MODIFY COLUMN Phone CHAR(12);
 -- DROP
 -- DROP is used to delete/remove a database or a a table.
 
+-- remove EmailAddress from customerdetails
+ALTER TABLE customerdetails
+DROP COLUMN EmailAddress;
 
 
-
-
-
+-- TRUNCATE
+-- TRUNCATE removes all table records but maintains the table structure.
+USE people;
+TRUNCATE TABLE persons;
 
 
 
@@ -77,6 +84,11 @@ CREATE TABLE Teachers (
 ALTER TABLE Teachers
 RENAME COLUMN Birthday TO BirthDate;
 
+-- Remove the teachers DB
+DROP TABLE teachers;
 
+-- Remove database
+DROP DATABASE testdb;
+ 
  
 
